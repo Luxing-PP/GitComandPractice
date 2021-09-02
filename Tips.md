@@ -14,6 +14,21 @@ checkout
 
 
 
+branch
+
+- git branch -d *branchName*  删除分支
+
+
+
 push：
 
 - git push --set-upstream (origin *branchName*)
+
+
+
+版本回退：
+
+- git reset HEAD^
+- git reset HEAD~*num*
+- git reset HEAD *logid*
+
