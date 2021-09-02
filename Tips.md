@@ -23,6 +23,13 @@ branch
 
 
 
+stash（没试）
+
+- git stash(展示存储)
+- git stash pop
+
+
+
 push：
 
 - git push --set-upstream (origin *branchName*)
