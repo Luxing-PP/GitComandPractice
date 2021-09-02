@@ -23,3 +23,12 @@ branch
 push：
 
 - git push --set-upstream (origin *branchName*)
+
+
+
+版本回退：
+
+- git reset HEAD^
+- git reset HEAD~*num*
+- git reset HEAD *logid*
+
