@@ -14,6 +14,12 @@ checkout
 
 
 
+branch
+
+- git branch -d *branchName*  删除分支
+
+
+
 push：
 
 - git push --set-upstream (origin *branchName*)
