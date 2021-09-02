@@ -16,7 +16,10 @@ checkout
 
 branch
 
-- git branch -d *branchName*  删除分支
+- git branch -a
+
+- git branch -d *branchName*  删除本地分支
+- git push origin --delete *branchName* 删除远端
 
 
 
